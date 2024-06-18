@@ -72,3 +72,5 @@ print()
 
 # This method is definitely faster than the first method for large numbers - it took about half the time
 # Now here is where the tradeoff between computation speed and code readability comes in
+# The next part of the problem is generalizability - how can we make this code work for any number, not just 1000 or 100 million?
+# And how can we make it work for any two numbers, not just 3 and 5?
